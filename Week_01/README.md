@@ -5,6 +5,7 @@
 [Deque](../src/main/java/practice/list/Deque.java)
 - 分析 Queue 和 Priority Queue 的源码
 - 删除排序数组中的重复项（Facebook、字节跳动、微软在半年内面试中考过）
+[RemoveDuplicates](../src/main/java/practice/list/RemoveDuplicates.java)
 - 旋转数组（微软、亚马逊、PayPal 在半年内面试中考过）
 - 合并两个有序链表（亚马逊、字节跳动在半年内面试常考）
 [MergeTwoLists](../src/main/java/practice/list/MergeTwoLists.java)
@@ -12,6 +13,7 @@
 - 两数之和（亚马逊、字节跳动、谷歌、Facebook、苹果、微软在半年内面试中高频常考）
 - 移动零（Facebook、亚马逊、苹果在半年内面试中考过）
 - 加一（谷歌、字节跳动、Facebook 在半年内面试中考过）
+[PlusOne](../src/main/java/practice/list/PlusOne.java)
 ## 中等
 - 设计循环双端队列（Facebook 在 1 年内面试中考过）
 ## 困难
