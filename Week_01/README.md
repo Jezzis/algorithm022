@@ -23,3 +23,4 @@
 [CircleDeque](../src/main/java/practice/list/CircleDeque.java)
 ## 困难
 - 接雨水（亚马逊、字节跳动、高盛集团、Facebook 在半年内面试常考）
+[Trap](../src/main/java/practice/pointer/Trap.java)
