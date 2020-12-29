@@ -2,11 +2,12 @@
 
 ## 简单
 - 用 add first 或 add last 这套新的 API 改写 Deque 的代码
+[Deque](../src/main/java/practice/list/Deque.java)
 - 分析 Queue 和 Priority Queue 的源码
 - 删除排序数组中的重复项（Facebook、字节跳动、微软在半年内面试中考过）
 - 旋转数组（微软、亚马逊、PayPal 在半年内面试中考过）
 - 合并两个有序链表（亚马逊、字节跳动在半年内面试常考）
-MergeTwoLists
+[MergeTwoLists](../src/main/java/practice/list/MergeTwoLists.java)
 - 合并两个有序数组（Facebook 在半年内面试常考）
 - 两数之和（亚马逊、字节跳动、谷歌、Facebook、苹果、微软在半年内面试中高频常考）
 - 移动零（Facebook、亚马逊、苹果在半年内面试中考过）
