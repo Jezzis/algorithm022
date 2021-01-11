@@ -28,7 +28,7 @@
   [NumberOfIslands](../src/main/java/practice/graph/NumberOfIslands.java)
 - 扫雷游戏（亚马逊、Facebook 在半年内面试中考过）
 - 跳跃游戏 （亚马逊、华为、Facebook 在半年内面试中考过）
-  [JumpGame](../src/main/java/practice/greedy/JumpGame.java)
+  [* JumpGame](../src/main/java/practice/greedy/JumpGame.java)
 - 搜索旋转排序数组（Facebook、字节跳动、亚马逊在半年内面试常考）
   [SearchInRotatedSortedArray](../src/main/java/practice/search/SearchInRotatedSortedArray.java)
 - 搜索二维矩阵（亚马逊、微软、Facebook 在半年内面试中考过）
@@ -40,7 +40,7 @@
 - 单词接龙 II （微软、亚马逊、Facebook 在半年内面试中考过）
   [* LadderLength2](../src/main/java/practice/graph/LadderLength2.java)
 - 跳跃游戏 II （亚马逊、华为、字节跳动在半年内面试中考过）
-  [JumpGame2](../src/main/java/practice/greedy/JumpGame2.java)
+  [* JumpGame2](../src/main/java/practice/greedy/JumpGame2.java)
 
 ## 训练场练习（选做）
 学有余力的同学，可以挑战以下【训练场】模拟面试真题：
