@@ -27,6 +27,7 @@
 - 岛屿数量（近半年内，亚马逊在面试中考查此题达到 350 次）
   [NumberOfIslands](../src/main/java/practice/graph/NumberOfIslands.java)
 - 扫雷游戏（亚马逊、Facebook 在半年内面试中考过）
+  [MinesWeeper](../src/main/java/practice/graph/MinesWeeper.java)
 - 跳跃游戏 （亚马逊、华为、Facebook 在半年内面试中考过）
   [* JumpGame](../src/main/java/practice/greedy/JumpGame.java)
 - 搜索旋转排序数组（Facebook、字节跳动、亚马逊在半年内面试常考）
