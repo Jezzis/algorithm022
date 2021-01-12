@@ -9,6 +9,9 @@ public class LadderLength {
 
     /**
      * 广度优先遍历
+     *  1) 用计数器 + HashMap<String, Integer> 将string -> int
+     *  2) 构建邻接矩阵: hot -> *ot, h*t, ho* -> hot, 用List<List<Integer>>, 下标作为映射
+     *  3) 构建距离数组: int[] dis 初始化为大无穷, 注意!! dis[0] = 0; !!注意，这里需要初始起始距离，下标作为映射, 仅当dis[i] == Integer.MAX时，更新距离, 防止无穷bfs
      * @param beginWord
      * @param endWord
      * @param wordList
